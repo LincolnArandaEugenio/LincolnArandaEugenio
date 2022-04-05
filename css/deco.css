@@ -1,0 +1,22 @@
+.quepro{
+  width: 300px;
+  height: 230px;
+  border: 10mm;
+}
+
+.banner{
+  width: 1340px;
+  height: 250px;
+}
+
+.titulo{
+  text-decoration: underline;
+  text-align: center;
+}
+
+.poema{
+  text-align: center;
+  color: brown;
+  font-size: x-large;
+  
+}
